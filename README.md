@@ -9,7 +9,7 @@ Bot for Profile Views on the Github!
 
 * ## Installation
 ```
-git clone https://github.com/xcatbear/Golang-Github-View-Bot
+git clone https://github.com/xcatbear/Golang-Github-Views-Botter
 ```
 ```
 cd Golang-Github-View-Bot

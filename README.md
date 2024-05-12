@@ -1,4 +1,4 @@
-# Golang GitHub View Bot
+# Golang GitHub Views Botter
 Bot for Profile Views on the Github!
 
 * ## Changes:

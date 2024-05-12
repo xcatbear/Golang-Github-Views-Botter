@@ -5,7 +5,7 @@ Bot for Profile Views on the Github!
 ```
 Golang Support!
 Faster and light-weight program!
-500 Threads Support!
+Much more Threads Support!
 ```
 
 * ## Installation

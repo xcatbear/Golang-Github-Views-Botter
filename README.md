@@ -2,11 +2,10 @@
 Bot for Profile Views on the Github!
 
 * ## Changes:
-```
-Golang Support!
-Faster and light-weight program!
-Much more Threads Support!
-```
+- [x] - **Golang Support!**
+- [x] - **Faster and light-weight program!**
+- [x] - **Prints only Successful Requests!**
+- [x] - **Much more Threads Support!**
 
 * ## Installation
 ```

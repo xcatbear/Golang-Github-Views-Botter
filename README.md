@@ -12,7 +12,7 @@ Bot for Profile Views on the Github!
 git clone https://github.com/xcatbear/Golang-Github-Views-Botter
 ```
 ```
-cd Golang-Github-View-Bot
+cd Golang-Github-Views-Botter
 ```
 ```
 go run bot.go
